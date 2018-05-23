@@ -19,22 +19,22 @@
 
 ## Equipes
 ### 1
-* Lucas Jacobi
+* Pedro
 * Thiago
 * Renato
 * Erica Olmo
 ### 2
-* Pedro
-* Alisson
-* Possatte
-* Diego
-* Gustavo Benetti
-### 3
+* Thaiza
 * Nicolas
+* Alisson
+* Diego
+### 3
 * Thallys
+* Gustavo Benetti
+* Lucas Jacobi
+### 4
+* Possatte
 * Marlon
 * Giovani
-* Thaiza
-
 
 
