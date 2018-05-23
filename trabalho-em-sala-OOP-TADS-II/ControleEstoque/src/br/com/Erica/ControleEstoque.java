@@ -1,4 +1,4 @@
-package br.com.pedroenju;
+package br.com.Erica;
 
 import javax.swing.JOptionPane;
 
