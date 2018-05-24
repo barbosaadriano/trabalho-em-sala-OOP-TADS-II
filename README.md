@@ -19,24 +19,22 @@
 
 ## Equipes
 ### 1
-* Pedro
-* Thiago
-* Renato
-* Erica Olmo
+* Pedro ok
+* Thiago ok
+* Renato ok
+* Erica Olmo ok
 ### 2
-* Thaiza
-* Nicolas
-* Alisson
-* Diego
+* Thaiza ok
+* Nicolas ok
+* Alisson ok
+* Diego ok
 ### 3
-* Thallys
-* Gustavo Benetti
-* Lucas Jacobi
+* Thallys ok
+* Gustavo Benetti ok
+* Lucas Jacobi ok
 ### 4
-* Possatte
-* Marlon
-* Giovani
-
-
+* Possatte ok
+* Marlon ok
+* Giovani 
 
 
